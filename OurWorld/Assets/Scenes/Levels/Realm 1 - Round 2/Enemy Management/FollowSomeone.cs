@@ -23,6 +23,10 @@ public class FollowSomeone : MonoBehaviour
     [Tooltip("Seconds to wait after touching stopFollowCollider until resuming follow")]
     public float freezeAfterPeriod = 1;
 
+    [ConditionalField("useStopFollowCollider")]
+    [Tooltip("If specified, will freeze this animator when touching stopFollowCollider")]
+    public Animator animatorToFreeze = null;
+
     private NavMeshAgent agent; // agent attached to this same gameobject, used to follow the target
     private float timeOfExitFromStopCollider; // keeps track of when the enemy became free of stop collider  
 
@@ -38,6 +42,10 @@ public class FollowSomeone : MonoBehaviour
         if (agent.isStopped && Time.time - timeOfExitFromStopCollider > freezeAfterPeriod)
         {
             agent.isStopped = false;
+            if (animatorToFreeze)
+            {
+                animatorToFreeze.enabled = true;
+            }
         }
 
         Vector3 dest;
@@ -56,10 +64,19 @@ public class FollowSomeone : MonoBehaviour
 
     private void OnTriggerStay(Collider other)
     {
-        if (stopFollowCollider && other == stopFollowCollider)
+        // if using stop follow collider...
+        if (useStopFollowCollider && other == stopFollowCollider)
         {
+            // stop navmesh agent when
             timeOfExitFromStopCollider = Time.time;
             agent.isStopped = true;
+
+            // and freeze all animations
+            if (animatorToFreeze)
+            {
+                animatorToFreeze.enabled = false;
+            }
+
         }
     }
 }

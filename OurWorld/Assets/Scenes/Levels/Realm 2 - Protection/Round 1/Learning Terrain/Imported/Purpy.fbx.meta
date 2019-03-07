@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: e36dd6e06bee50e48b572e1dc794ee57
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Abtn
+    100002: Abtn 1
+    100004: Abtn 2
+    100006: Abtn 3
+    100008: Abtn 4
+    100010: Abtn 5
+    100012: animate
+    100014: animate 1
+    100016: BakedMesh
+    100018: Bbtn
+    100020: Bbtn 1
+    100022: Bbtn 2
+    100024: Bbtn 3
+    100026: Bbtn 4
+    100028: Bbtn 5
+    100030: draw
+    100032: draw 1
+    100034: draw-label
+    100036: draw-label 1
+    100038: Hand
+    100040: hand
+    100042: Hand 1
+    100044: hand 1
+    100046: Hand 2
+    100048: hand 2
+    100050: Hand 3
+    100052: hand 3
+    100054: Hand 4
+    100056: hand 4
+    100058: Hand 5
+    100060: hand 5
+    100062: handle1
+    100064: handle1 1
+    100066: handle1 10
+    100068: handle1 11
+    100070: handle1 2
+    100072: handle1 3
+    100074: handle1 4
+    100076: handle1 5
+    100078: handle1 6
+    100080: handle1 7
+    100082: handle1 8
+    100084: handle1 9
+    100086: hands
+    100088: hands 1
+    100090: hands 2
+    100092: hands 3
+    100094: hands 4
+    100096: hands 5
+    100098: Inside
+    100100: Inside 1
+    100102: Inside 2
+    100104: Inside 3
+    100106: Inside 4
+    100108: Inside 5
+    100110: Inside 6
+    100112: Inside 7
+    100114: Inside 8
+    100116: Inside 9
+    100118: lefthand
+    100120: lefthand 1
+    100122: lefthand 2
+    100124: lefthand 3
+    100126: lefthand 4
+    100128: lefthand 5
+    100130: Map
+    100132: Map 1
+    100134: modify
+    100136: modify 1
+    100138: modify_label
+    100140: modify_label 1
+    100142: NewLayer0r
+    100144: NewLayer0r 1
+    100146: NewLayer2
+    100148: NewLayer2 1
+    100150: NewLayer2 2
+    100152: NewLayer2 3
+    100154: NewLayer2 4
+    100156: NewLayer2 5
+    100158: NewLayer4
+    100160: NewLayer4 1
+    100162: NewLayer4 2
+    100164: NewLayer4 3
+    100166: NewLayer4 4
+    100168: NewLayer4 5
+    100170: ocbtn
+    100172: ocbtn 1
+    100174: ocbtn 10
+    100176: ocbtn 11
+    100178: ocbtn 2
+    100180: ocbtn 3
+    100182: ocbtn 4
+    100184: ocbtn 5
+    100186: ocbtn 6
+    100188: ocbtn 7
+    100190: ocbtn 8
+    100192: ocbtn 9
+    100194: //RootNode
+    100196: Purpy
+    100198: Purpy 1
+    100200: Purpy 2
+    100202: Purpy 3
+    100204: Purpy 4
+    100206: Purpy 5
+    100208: Purpy 6
+    100210: Purpy 7
+    100212: Purpy 8
+    100214: Purpy 9
+    100216: PurpyGround
+    100218: PurpyGround 1
+    100220: PurpyGround 2
+    100222: PurpyGround 3
+    100224: PurpyGround 4
+    100226: PurpyGround 5
+    100228: PurpyGround 6
+    100230: PurpyGround 7
+    100232: PurpyGround 8
+    100234: PurpyGround 9
+    100236: PurpyGroupv2
+    100238: PurpyGroupv2 1
+    100240: PurpyGroupv3
+    100242: PurpyGroupv3 1
+    100244: PurpyGroupv4
+    100246: PurpyGroupv4 1
+    100248: PurpyGroupv5
+    100250: PurpyGroupv5 1
+    100252: PurpyGroupv6
+    100254: PurpyGroupv6 1
+    100256: righthand
+    100258: righthand 1
+    100260: righthand 2
+    100262: righthand 3
+    100264: righthand 4
+    100266: righthand 5
+    100268: Root
+    100270: Root 1
+    100272: roundhardware
+    100274: roundhardware 1
+    100276: roundhardware 10
+    100278: roundhardware 11
+    100280: roundhardware 2
+    100282: roundhardware 3
+    100284: roundhardware 4
+    100286: roundhardware 5
+    100288: roundhardware 6
+    100290: roundhardware 7
+    100292: roundhardware 8
+    100294: roundhardware 9
+    100296: RTthumbstick
+    100298: RTthumbstick 1
+    100300: RTthumbstick 10
+    100302: RTthumbstick 11
+    100304: RTthumbstick 2
+    100306: RTthumbstick 3
+    100308: RTthumbstick 4
+    100310: RTthumbstick 5
+    100312: RTthumbstick 6
+    100314: RTthumbstick 7
+    100316: RTthumbstick 8
+    100318: RTthumbstick 9
+    100320: SourceData
+    100322: tptrigger
+    100324: tptrigger 1
+    100326: tptrigger 2
+    100328: tptrigger 3
+    100330: tptrigger 4
+    100332: tptrigger 5
+    100334: trigger
+    100336: trigger 1
+    100338: trigger 2
+    100340: trigger 3
+    100342: trigger 4
+    100344: trigger 5
+    100346: viewpoints
+    100348: viewpoints 1
+    100350: Xbtn
+    100352: Xbtn 1
+    100354: Xbtn 2
+    100356: Xbtn 3
+    100358: Xbtn 4
+    100360: Xbtn 5
+    100362: Ybtn
+    100364: Ybtn 1
+    100366: Ybtn 2
+    100368: Ybtn 3
+    100370: Ybtn 4
+    100372: Ybtn 5
+    400000: Abtn
+    400002: Abtn 1
+    400004: Abtn 2
+    400006: Abtn 3
+    400008: Abtn 4
+    400010: Abtn 5
+    400012: animate
+    400014: animate 1
+    400016: BakedMesh
+    400018: Bbtn
+    400020: Bbtn 1
+    400022: Bbtn 2
+    400024: Bbtn 3
+    400026: Bbtn 4
+    400028: Bbtn 5
+    400030: draw
+    400032: draw 1
+    400034: draw-label
+    400036: draw-label 1
+    400038: Hand
+    400040: hand
+    400042: Hand 1
+    400044: hand 1
+    400046: Hand 2
+    400048: hand 2
+    400050: Hand 3
+    400052: hand 3
+    400054: Hand 4
+    400056: hand 4
+    400058: Hand 5
+    400060: hand 5
+    400062: handle1
+    400064: handle1 1
+    400066: handle1 10
+    400068: handle1 11
+    400070: handle1 2
+    400072: handle1 3
+    400074: handle1 4
+    400076: handle1 5
+    400078: handle1 6
+    400080: handle1 7
+    400082: handle1 8
+    400084: handle1 9
+    400086: hands
+    400088: hands 1
+    400090: hands 2
+    400092: hands 3
+    400094: hands 4
+    400096: hands 5
+    400098: Inside
+    400100: Inside 1
+    400102: Inside 2
+    400104: Inside 3
+    400106: Inside 4
+    400108: Inside 5
+    400110: Inside 6
+    400112: Inside 7
+    400114: Inside 8
+    400116: Inside 9
+    400118: lefthand
+    400120: lefthand 1
+    400122: lefthand 2
+    400124: lefthand 3
+    400126: lefthand 4
+    400128: lefthand 5
+    400130: Map
+    400132: Map 1
+    400134: modify
+    400136: modify 1
+    400138: modify_label
+    400140: modify_label 1
+    400142: NewLayer0r
+    400144: NewLayer0r 1
+    400146: NewLayer2
+    400148: NewLayer2 1
+    400150: NewLayer2 2
+    400152: NewLayer2 3
+    400154: NewLayer2 4
+    400156: NewLayer2 5
+    400158: NewLayer4
+    400160: NewLayer4 1
+    400162: NewLayer4 2
+    400164: NewLayer4 3
+    400166: NewLayer4 4
+    400168: NewLayer4 5
+    400170: ocbtn
+    400172: ocbtn 1
+    400174: ocbtn 10
+    400176: ocbtn 11
+    400178: ocbtn 2
+    400180: ocbtn 3
+    400182: ocbtn 4
+    400184: ocbtn 5
+    400186: ocbtn 6
+    400188: ocbtn 7
+    400190: ocbtn 8
+    400192: ocbtn 9
+    400194: //RootNode
+    400196: Purpy
+    400198: Purpy 1
+    400200: Purpy 2
+    400202: Purpy 3
+    400204: Purpy 4
+    400206: Purpy 5
+    400208: Purpy 6
+    400210: Purpy 7
+    400212: Purpy 8
+    400214: Purpy 9
+    400216: PurpyGround
+    400218: PurpyGround 1
+    400220: PurpyGround 2
+    400222: PurpyGround 3
+    400224: PurpyGround 4
+    400226: PurpyGround 5
+    400228: PurpyGround 6
+    400230: PurpyGround 7
+    400232: PurpyGround 8
+    400234: PurpyGround 9
+    400236: PurpyGroupv2
+    400238: PurpyGroupv2 1
+    400240: PurpyGroupv3
+    400242: PurpyGroupv3 1
+    400244: PurpyGroupv4
+    400246: PurpyGroupv4 1
+    400248: PurpyGroupv5
+    400250: PurpyGroupv5 1
+    400252: PurpyGroupv6
+    400254: PurpyGroupv6 1
+    400256: righthand
+    400258: righthand 1
+    400260: righthand 2
+    400262: righthand 3
+    400264: righthand 4
+    400266: righthand 5
+    400268: Root
+    400270: Root 1
+    400272: roundhardware
+    400274: roundhardware 1
+    400276: roundhardware 10
+    400278: roundhardware 11
+    400280: roundhardware 2
+    400282: roundhardware 3
+    400284: roundhardware 4
+    400286: roundhardware 5
+    400288: roundhardware 6
+    400290: roundhardware 7
+    400292: roundhardware 8
+    400294: roundhardware 9
+    400296: RTthumbstick
+    400298: RTthumbstick 1
+    400300: RTthumbstick 10
+    400302: RTthumbstick 11
+    400304: RTthumbstick 2
+    400306: RTthumbstick 3
+    400308: RTthumbstick 4
+    400310: RTthumbstick 5
+    400312: RTthumbstick 6
+    400314: RTthumbstick 7
+    400316: RTthumbstick 8
+    400318: RTthumbstick 9
+    400320: SourceData
+    400322: tptrigger
+    400324: tptrigger 1
+    400326: tptrigger 2
+    400328: tptrigger 3
+    400330: tptrigger 4
+    400332: tptrigger 5
+    400334: trigger
+    400336: trigger 1
+    400338: trigger 2
+    400340: trigger 3
+    400342: trigger 4
+    400344: trigger 5
+    400346: viewpoints
+    400348: viewpoints 1
+    400350: Xbtn
+    400352: Xbtn 1
+    400354: Xbtn 2
+    400356: Xbtn 3
+    400358: Xbtn 4
+    400360: Xbtn 5
+    400362: Ybtn
+    400364: Ybtn 1
+    400366: Ybtn 2
+    400368: Ybtn 3
+    400370: Ybtn 4
+    400372: Ybtn 5
+    2100000: Single Sided Material
+    2100002: Double Sided Material
+    2300000: Abtn
+    2300002: Abtn 1
+    2300004: Abtn 2
+    2300006: Bbtn
+    2300008: Bbtn 1
+    2300010: Bbtn 2
+    2300012: draw-label
+    2300014: Hand
+    2300016: hand
+    2300018: Hand 1
+    2300020: hand 1
+    2300022: Hand 2
+    2300024: hand 2
+    2300026: handle1
+    2300028: handle1 1
+    2300030: handle1 2
+    2300032: handle1 3
+    2300034: handle1 4
+    2300036: handle1 5
+    2300038: Inside
+    2300040: Inside 1
+    2300042: Inside 2
+    2300044: Inside 3
+    2300046: Inside 4
+    2300048: modify_label
+    2300050: NewLayer0r
+    2300052: NewLayer2
+    2300054: NewLayer2 1
+    2300056: NewLayer2 2
+    2300058: NewLayer4
+    2300060: NewLayer4 1
+    2300062: NewLayer4 2
+    2300064: ocbtn
+    2300066: ocbtn 1
+    2300068: ocbtn 2
+    2300070: ocbtn 3
+    2300072: ocbtn 4
+    2300074: ocbtn 5
+    2300076: Purpy
+    2300078: Purpy 1
+    2300080: Purpy 2
+    2300082: Purpy 3
+    2300084: Purpy 4
+    2300086: PurpyGround
+    2300088: PurpyGround 1
+    2300090: PurpyGround 2
+    2300092: PurpyGround 3
+    2300094: PurpyGround 4
+    2300096: roundhardware
+    2300098: roundhardware 1
+    2300100: roundhardware 2
+    2300102: roundhardware 3
+    2300104: roundhardware 4
+    2300106: roundhardware 5
+    2300108: RTthumbstick
+    2300110: RTthumbstick 1
+    2300112: RTthumbstick 2
+    2300114: RTthumbstick 3
+    2300116: RTthumbstick 4
+    2300118: RTthumbstick 5
+    2300120: tptrigger
+    2300122: tptrigger 1
+    2300124: tptrigger 2
+    2300126: trigger
+    2300128: trigger 1
+    2300130: trigger 2
+    2300132: Xbtn
+    2300134: Xbtn 1
+    2300136: Xbtn 2
+    2300138: Ybtn
+    2300140: Ybtn 1
+    2300142: Ybtn 2
+    3300000: Abtn
+    3300002: Abtn 1
+    3300004: Abtn 2
+    3300006: Bbtn
+    3300008: Bbtn 1
+    3300010: Bbtn 2
+    3300012: draw-label
+    3300014: Hand
+    3300016: hand
+    3300018: Hand 1
+    3300020: hand 1
+    3300022: Hand 2
+    3300024: hand 2
+    3300026: handle1
+    3300028: handle1 1
+    3300030: handle1 2
+    3300032: handle1 3
+    3300034: handle1 4
+    3300036: handle1 5
+    3300038: Inside
+    3300040: Inside 1
+    3300042: Inside 2
+    3300044: Inside 3
+    3300046: Inside 4
+    3300048: modify_label
+    3300050: NewLayer0r
+    3300052: NewLayer2
+    3300054: NewLayer2 1
+    3300056: NewLayer2 2
+    3300058: NewLayer4
+    3300060: NewLayer4 1
+    3300062: NewLayer4 2
+    3300064: ocbtn
+    3300066: ocbtn 1
+    3300068: ocbtn 2
+    3300070: ocbtn 3
+    3300072: ocbtn 4
+    3300074: ocbtn 5
+    3300076: Purpy
+    3300078: Purpy 1
+    3300080: Purpy 2
+    3300082: Purpy 3
+    3300084: Purpy 4
+    3300086: PurpyGround
+    3300088: PurpyGround 1
+    3300090: PurpyGround 2
+    3300092: PurpyGround 3
+    3300094: PurpyGround 4
+    3300096: roundhardware
+    3300098: roundhardware 1
+    3300100: roundhardware 2
+    3300102: roundhardware 3
+    3300104: roundhardware 4
+    3300106: roundhardware 5
+    3300108: RTthumbstick
+    3300110: RTthumbstick 1
+    3300112: RTthumbstick 2
+    3300114: RTthumbstick 3
+    3300116: RTthumbstick 4
+    3300118: RTthumbstick 5
+    3300120: tptrigger
+    3300122: tptrigger 1
+    3300124: tptrigger 2
+    3300126: trigger
+    3300128: trigger 1
+    3300130: trigger 2
+    3300132: Xbtn
+    3300134: Xbtn 1
+    3300136: Xbtn 2
+    3300138: Ybtn
+    3300140: Ybtn 1
+    3300142: Ybtn 2
+    4300000: PurpyGround
+    4300002: Inside
+    4300004: Purpy
+    4300006: PurpyGround
+    4300008: Inside
+    4300010: Purpy
+    4300012: PurpyGround
+    4300014: Inside
+    4300016: Purpy
+    4300018: PurpyGround
+    4300020: Inside
+    4300022: Purpy
+    4300024: PurpyGround
+    4300026: Inside
+    4300028: Purpy
+    4300030: draw-label
+    4300032: handle1
+    4300034: tptrigger
+    4300036: ocbtn
+    4300038: Ybtn
+    4300040: Xbtn
+    4300042: RTthumbstick
+    4300044: roundhardware
+    4300046: NewLayer2
+    4300048: Hand
+    4300050: NewLayer4
+    4300052: hand
+    4300054: trigger
+    4300056: handle1
+    4300058: ocbtn
+    4300060: Abtn
+    4300062: Bbtn
+    4300064: RTthumbstick
+    4300066: roundhardware
+    4300068: modify_label
+    4300070: handle1
+    4300072: tptrigger
+    4300074: ocbtn
+    4300076: Ybtn
+    4300078: Xbtn
+    4300080: RTthumbstick
+    4300082: roundhardware
+    4300084: NewLayer2
+    4300086: Hand
+    4300088: NewLayer4
+    4300090: hand
+    4300092: trigger
+    4300094: handle1
+    4300096: ocbtn
+    4300098: Abtn
+    4300100: Bbtn
+    4300102: RTthumbstick
+    4300104: roundhardware
+    4300106: NewLayer0r
+    4300108: handle1
+    4300110: tptrigger
+    4300112: ocbtn
+    4300114: Ybtn
+    4300116: Xbtn
+    4300118: RTthumbstick
+    4300120: roundhardware
+    4300122: NewLayer2
+    4300124: Hand
+    4300126: NewLayer4
+    4300128: hand
+    4300130: trigger
+    4300132: handle1
+    4300134: ocbtn
+    4300136: Abtn
+    4300138: Bbtn
+    4300140: RTthumbstick
+    4300142: roundhardware
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
